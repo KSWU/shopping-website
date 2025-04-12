@@ -1,3 +1,4 @@
-# Internet-database-programming-group_03
+# Internet-database-programming
 
-網際網路資料庫程式設計 期末專題 第3組
+購物網站實作
+
